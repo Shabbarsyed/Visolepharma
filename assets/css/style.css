@@ -589,7 +589,7 @@ a:active {
 .at-bg {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left center;
 }
 
 .at-gray-bg {
